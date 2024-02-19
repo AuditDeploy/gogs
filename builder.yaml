@@ -1,0 +1,4 @@
+projectname: gogs
+projecttype: go
+buildtool: go
+buildfile: gogs.go
